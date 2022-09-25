@@ -21,13 +21,16 @@ Con este trabajo se busca responder a la pregunta con datos de un banco real cuy
 
 ### Reporte :chart_with_downwards_trend:	
 * Archivo pdf del reporte entregado en la ultima revisión
+* Presentación utilizada en la realización del video 
 
 
 ## Version del proyecto 
-* 0.1
+* 2.1
   * Exploración de los datos
   * Estadística  descriptiva 
-  * Histogramas 
+  * Reducción de dimensionalidad 
+  * Clusterización 
+  * Análisis de los resultados
 
 ## Colaboradores :man_technologist: :woman_technologist:
 ### Equipo 11
