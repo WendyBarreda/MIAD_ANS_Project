@@ -9,11 +9,10 @@ Con este trabajo se busca responder a la pregunta con datos de un banco real cuy
 * Python 3.8 
 * Jupyter Notebook
 
-
 ## Distribución del repositorio :octocat:
 
 ### Código :computer:
-* Archivo .ipynb que contiene el código utilizado para el análisis de datos y la estadística 
+* Archivo .ipynb que contiene el código, incluye todos los pasos implementados en el proyecto
 
 ### Datos :bookmark_tabs: 
 * Originales: contiene la muestra original de los datos 
