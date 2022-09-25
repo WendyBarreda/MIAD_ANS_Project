@@ -16,7 +16,7 @@ Con este trabajo se busca responder a la pregunta con datos de un banco real cuy
 
 ### Datos :bookmark_tabs: 
 * Originales: contiene la muestra original de los datos 
-* Procesados: contiene la ultima versión de los datos después del procesamiento aplicado
+* Procesados: datos utilizados en el notebook
 
 ### Reporte :chart_with_downwards_trend:	
 * Archivo pdf del reporte entregado en la ultima revisión
